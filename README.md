@@ -1,6 +1,8 @@
 # geocoding-script
 A script that converts a city and state to latitude and longitude coordinates using the Google Maps API.
 
+**Example Geodata Plot in Tableau:** https://public.tableau.com/profile/melissa.schmitz#!/vizhome/SimpleScriptsHowcanIproducecleanmapdataforgeodatavisualizations/MapPlot
+
 # Required Python Libraries
 - Requests
 - Pandas
